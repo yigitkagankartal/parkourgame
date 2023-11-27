@@ -16,4 +16,6 @@ Oyun içinden bir görüntü(issues isteklerine yönelik olduğu için modelleme
 |       Jump         |         Space Bar        |     
            
 ## Download
+[Parkour Adventure](https://github.com/Tryx3N/parkourgame)
 
+[Unity Build Demo](https://github.com/Tryx3N/parkourgame/releases/tag/pre-release)
