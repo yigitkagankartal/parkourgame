@@ -10,10 +10,10 @@ Oyun içinden bir görüntü(issues isteklerine yönelik olduğu için modelleme
 
 ## Controls
 
-
-
-|                    |      Keyboard & Mouse    |
-|    ---------       |         ---------        |
+|                    |         Keyboard         |
+|     --------       |         --------         |
 |     Movement       |        W, A, S, D        |    
 |       Jump         |         Space Bar        |     
            
+## Download
+
